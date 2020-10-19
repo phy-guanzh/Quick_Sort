@@ -2,8 +2,6 @@
 ##################################################
 
 
-A test in jupyter & a quick sort method (O(nlogn))
-
-^-^
+A test in jupyter & a quick sort method (O(nlogn)) ^-^
 
 ##################################################
